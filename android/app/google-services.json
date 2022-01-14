@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "309378520472",
+    "project_id": "commercial-bank-9d552",
+    "storage_bucket": "commercial-bank-9d552.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309378520472:android:0babae7f93e7a9789047ed",
+        "android_client_info": {
+          "package_name": "com.example.commercial_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309378520472-io60hfutghuav70l2uihg6g2cc0502gt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.commercial_bank",
+            "certificate_hash": "92058930f8a7b5440bac6d3395226a89ec6911d6"
+          }
+        },
+        {
+          "client_id": "309378520472-vohg3ajkplcc4vsnl5gjneoci484j40h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLBKC_67aHCy2f_cyQTKmMWzq6FOYBbiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309378520472-vohg3ajkplcc4vsnl5gjneoci484j40h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
